@@ -5,6 +5,7 @@ public class quadraticEq {
         double discriminant = b * b - 4* a * c;
         if(discriminant > 0){
             //two real and distinct root
-            double root1 = (-b + Math.sqrt(discriminant)) / (2 * a);        }
+            double root1 = (-b + Math.sqrt(discriminant)) / (2 * a);
+            double root2 = (-b - Math.sqrt(discriminant)) / (2 * a);}
     }
 }
