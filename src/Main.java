@@ -10,5 +10,6 @@ public class Main {
         double c = scanner.nextDouble();
         QuadraticEq quadraticEq = new QuadraticEq();
         quadraticEq.discriminant(a, b, c);
+        scanner.close();
     }
 }
