@@ -12,7 +12,8 @@ public class quadraticEq {
             System.out.println("Root 2:" + root2);
         }
         else if(discriminant == 0){
-            //
+            //one real root repeated
+            System.out.println("One real root (repeated):");
         }
     }
 }
