@@ -9,6 +9,7 @@ public class quadraticEq {
             double root2 = (-b - Math.sqrt(discriminant)) / (2 * a);
             System.out.println("Two real and distinct roots: ");
             System.out.println("Root 1: " + root1);
+            System.out.println("Root 2:" + root2);
         }
     }
 }
