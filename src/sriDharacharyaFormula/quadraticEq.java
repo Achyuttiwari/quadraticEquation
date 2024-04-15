@@ -2,5 +2,10 @@ package sriDharacharyaFormula;
 
 public class quadraticEq {
     private void Discriminant(double a, double b, double c){
+        double discriminant = b * b - 4* a * c;
+        if(discriminant > 0){
+            //two real and distinct root
+
+        }
     }
 }
