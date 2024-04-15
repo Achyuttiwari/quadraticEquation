@@ -11,5 +11,8 @@ public class quadraticEq {
             System.out.println("Root 1: " + root1);
             System.out.println("Root 2:" + root2);
         }
+        else if(discriminant == 0){
+            //
+        }
     }
 }
