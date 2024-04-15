@@ -15,6 +15,7 @@ public class quadraticEq {
             //one real root repeated
             System.out.println("One real root (repeated):");
             double root = -b / (2 * a);
+            System.out.println("Root: "  + root );
 
         }
     }
