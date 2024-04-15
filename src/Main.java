@@ -5,5 +5,6 @@ public class Main {
         Scanner scanner  = new Scanner(System.in);
         double a = scanner.nextDouble();
         double b = scanner.nextDouble();
+        double c = scanner.nextDouble();
     }
 }
